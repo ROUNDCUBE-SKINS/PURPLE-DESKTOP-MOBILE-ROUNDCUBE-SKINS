@@ -4,4 +4,19 @@ This repository holds the source code of Purple Desktop and Mobile Roundcube Ski
 # How to install
 Read the instruction to activate the RoundcubeSkins : [Instructions to Use](https://roundcubeskins.com/activation-guide/)  
 
+
+# How do they look #
+
+## Desktop View ##
+
+![Purple Desktop Roundcube Skins](images/purple_mail.png)
+
+---
+
+## Mobile View ##
+
+![Purple Mobile Roundcube Skins](images/purple.png)
+
+---
+
 We wish you a colorful experience while using the RoundcubeSkins.
